@@ -19,6 +19,7 @@ RUN npm install -g npm@9.7.2 node-gyp
 # prisma関連
 RUN npm install prisma --save-dev
 RUN npm install @prisma/client
+RUN npm install next-auth
 
 # RUN npx prisma init
 
