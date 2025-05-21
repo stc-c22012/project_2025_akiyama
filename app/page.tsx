@@ -26,11 +26,3 @@ export default function Home() {
       </div>
   );
 }
-
-// export default function Home(){
-//     return(
-//         <>
-//             <p>Hello.</p>
-//         </>
-//     )
-// }
